@@ -1,7 +1,1 @@
-# No external dependencies required
-# This project uses only Python standard library modules:
-# - random (built-in)
-# - replit (for clear function - can be replaced with os.system)
-
-# If running outside of Replit, you can replace the replit import
-# with a custom clear function using os module
+replit==4.1.2
